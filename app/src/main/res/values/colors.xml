@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary_dark">#192A56</color>
+    <color name="primary">#273C75</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="background_dark">#2F3542</color>
+    <color name="list_item_stroke">#487EB0</color>
 </resources>
